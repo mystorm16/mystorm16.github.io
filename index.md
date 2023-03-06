@@ -5,7 +5,11 @@
 <table rules="none" align="center">
 	<tr>
           <td> AR维修任务1  </td>
-          <td> <img src="gif/AR_blue_car_org_mark.gif" height="200" />
+          <td>
+			<center>
+				<img src="gif/task1.gif" height="200" />
+			</center>
+		</td>
 	<tr>
 		<td>
 			<center>
