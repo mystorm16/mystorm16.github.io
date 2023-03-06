@@ -1,47 +1,106 @@
-# 个人主页 for 沈优
+# 个人主页 to 沈优
 
 ## 项目Demo：
-
+### 1. 基于增强现实的船载电子装备辅助维修：
 <table rules="none" align="center">
 	<tr>
-          <td> AR维修任务1  </td>
+          <td> 任务1  </td>
           <td>
 			<center>
 				<img src="gif/task1.gif" height="200" />
 			</center>
 		</td>
-	<tr>
-          <td> AR维修任务2  </td>
+		<td> 任务2  </td>
           <td>
 			<center>
 				<img src="gif/task2.gif" height="200" />
 			</center>
 		</td>
-	</tr>
 	<tr>
-          <td> AR维修任务3  </td>
+          <td> 任务3  </td>
           <td>
 			<center>
 				<img src="gif/task3.gif" height="200" />
 			</center>
 		</td>
-        </tr>
-	<tr>
-          <td> AR维修任务4  </td>
+		<td> 任务4  </td>
           <td>
 			<center>
-				<img src="gif/task4gif.gif" height="200" />
+				<img src="gif/task4.gif" height="200" />
 			</center>
 		</td>
 	</tr>
 </table>
 
-## 论文《Object-Plane Co-Represented and Graph Propagation-Based Semantic Descriptor for Relocalization》 
-论文摘要：   
-Relocalization is a critical component of robotics applications, it poses challenges due to changes in lighting conditions, weather, and viewing point. Image feature-based approaches are appearance-sensitive, high-level semantic landmark-based methods are ambiguous, and topological map matching-based methods are not robust enough among available solutions. We propose a highly robust and highly expressive semantic descriptor for graph matching. Specifically, we begin by introducing an object-plane co-represented topological graph and a graph propagation algorithm to formulate descriptors for high-level landmarks; we then solve graph matching using the sKM algorithm. Finally, we develop a relocalization system that combines semantic objects and geometric planes for pose optimization and conducts experimental validation on various datasets. Experimental results demonstrate that the suggested method remains effective even when the viewpoint changes by more than 80˚ on the 2D-3D-S dataset, and the mean orientation error is less than 5˚ on the sceneNN dataset.   
-[论文链接](https://ieeexplore.ieee.org/document/9829918)
-  
-* 在大视差下使用语义拓扑图进行重定位的一个示例：   
+
+### 2. 基于增强现实的数字场景孪生：
+<table rules="none" align="center">
+	<tr>
+          <td> 孪生场景1  </td>
+          <td>
+			<center>
+				<img src="gif/task1.gif" height="200" />
+			</center>
+		</td>
+		<td> 孪生场景2  </td>
+          <td>
+			<center>
+				<img src="gif/task2.gif" height="200" />
+			</center>
+		</td>
+	<tr>
+          <td> 虚实融合1  </td>
+          <td>
+			<center>
+				<img src="gif/task3.gif" height="200" />
+			</center>
+		</td>
+		<td> 虚实融合2  </td>
+          <td>
+			<center>
+				<img src="gif/task4.gif" height="200" />
+			</center>
+		</td>
+	</tr>
+</table>
+
+### 2. 基于隐式编码的物体模型优化：
+<table rules="none" align="center">
+	<tr>
+          <td> 原始描述子 </td>
+          <td>
+			<center>
+				<img src="gif/task1.gif" height="200" />
+			</center>
+		</td>
+		<td> 正态分布0.05  </td>
+          <td>
+			<center>
+				<img src="gif/task2.gif" height="200" />
+			</center>
+		</td>
+	<tr>
+          <td> 正态分布0.1  </td>
+          <td>
+			<center>
+				<img src="gif/task3.gif" height="200" />
+			</center>
+		</td>
+		<td> 正态分布0.2  </td>
+          <td>
+			<center>
+				<img src="gif/task4.gif" height="200" />
+			</center>
+		</td>
+	</tr>
+</table>
+
+## 论文《BSH-Det3D: Improving 3D Object Detection with BEV Shape Heatmap》 
+[论文链接](https://arxiv.org/abs/2303.02000)
+**摘要：**   
+The progress of LiDAR-based 3D object detection has significantly enhanced developments in autonomous driving and robotics. However, due to the limitations of LiDAR sensors, object shapes suffer from deterioration in occluded and distant areas, which creates a fundamental challenge to 3D perception. Existing methods estimate specific 3D shapes and achieve remarkable performance. However, these methods rely on extensive computation and memory, causing imbalances between accuracy and real-time performance. To tackle this challenge, we propose a novel LiDAR-based 3D object detection model named BSH-Det3D, which applies an effective way to enhance spatial features by estimating complete shapes from a bird's eye view (BEV). Specifically, we design the Pillar-based Shape Completion (PSC) module to predict the probability of occupancy whether a pillar contains object shapes. The PSC module generates a BEV shape heatmap for each scene. After integrating with heatmaps, BSH-Det3D can provide additional information in shape deterioration areas and generate high-quality 3D proposals. We also design an attention-based densification fusion module (ADF) to adaptively associate the sparse features with heatmaps and raw points. The ADF module integrates the advantages of points and shapes knowledge with negligible overheads. Extensive experiments on the KITTI benchmark achieve state-of-the-art (SOTA) performance in terms of accuracy and speed, demonstrating the efficiency and flexibility of BSH-Det3D. The source code is available on https://github.com/mystorm16/BSH-Det3D.
+![image](https://note.youdao.com/favicon.ico)
+
 
 
   
