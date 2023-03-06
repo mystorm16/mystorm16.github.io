@@ -49,6 +49,7 @@
 				<img src="gif/ARCAR2gif.gif" height="200" />
 			</center>
 		</td>
+	</tr>
 	<tr>
           <td> 虚实融合1  </td>
           <td>
@@ -63,7 +64,7 @@
 			</center>
 		</td>
 	</tr>
-		<tr>
+	<tr>
           <td> AR演示原视频  </td>
           <td> AR演示添加虚拟对象(图中蓝车)	首先构建离线点云地图，利用离线地图重定位之后进行指定位置的三维注册，添加虚拟对象 </td>
         </tr>
