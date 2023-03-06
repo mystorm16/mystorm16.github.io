@@ -4,9 +4,8 @@
 
 <table rules="none" align="center">
 	<tr>
-          <td> AR演示原视频  </td>
-          <td> AR演示添加虚拟对象(图中蓝车)	首先构建离线点云地图，利用离线地图重定位之后进行指定位置的三维注册，添加虚拟对象 </td>
-        </tr>
+          <td> AR维修任务1  </td>
+          <td> <img src="gif/AR_blue_car_org_mark.gif" height="200" />
 	<tr>
 		<td>
 			<center>
