@@ -93,7 +93,7 @@
           <td> 原始描述子 </td>
           <td>
 			<center>
-				<img src="img/sdf0.png" width="350"/>
+				<img src="img/sdf0.png" width="400"/>
 			</center>
 		</td>
 		<td> 正态分布0.05  </td>
