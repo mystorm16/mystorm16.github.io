@@ -99,7 +99,7 @@
 		<td> 正态分布0.05  </td>
           <td>
 			<center>
-				<img src="img/sdf1.png" height="300" />
+				<img src="img/sdf1.png" height="200" />
 			</center>
 		</td>
 	</tr>
@@ -107,13 +107,13 @@
           <td> 正态分布0.1  </td>
           <td>
 			<center>
-				<img src="img/sdf2.png" height="300" />
+				<img src="img/sdf2.png" height="200" />
 			</center>
 		</td>
 		<td> 正态分布0.2  </td>
           <td>
 			<center>
-				<img src="img/sdf3.png" height="300" />
+				<img src="img/sdf3.png" height="200" />
 			</center>
 		</td>
 	</tr>
