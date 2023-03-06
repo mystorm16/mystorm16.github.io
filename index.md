@@ -1,6 +1,6 @@
-# 沈优个人主页
+# 个人主页 for 沈优
 
-## Demo展示~
+## Demo展示：
 
 <table rules="none" align="center">
 	<tr>
