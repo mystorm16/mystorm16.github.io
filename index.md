@@ -39,20 +39,20 @@
           <td> 孪生场景1  </td>
           <td>
 			<center>
-				<img src="gif/task1.gif" height="200" />
+				<img src="gif/ARCAR1gif.gif" height="200" />
 			</center>
 		</td>
 		<td> 孪生场景2  </td>
           <td>
 			<center>
-				<img src="gif/task2.gif" height="200" />
+				<img src="gif/ARCAR2gif.gif" height="200" />
 			</center>
 		</td>
 	<tr>
           <td> 虚实融合1  </td>
           <td>
 			<center>
-				<img src="gif/task3.gif" height="200" />
+				<img src="gif/ARCARgif.gif" height="200" />
 			</center>
 		</td>
 		<td> 虚实融合2  </td>
@@ -62,9 +62,42 @@
 			</center>
 		</td>
 	</tr>
+		<tr>
+          <td> AR演示原视频  </td>
+          <td> AR演示添加虚拟对象(图中蓝车)	首先构建离线点云地图，利用离线地图重定位之后进行指定位置的三维注册，添加虚拟对象 </td>
+        </tr>
+	<tr>
+		<td>
+			<center>
+				<img src="gif/gif_mark/AR_blue_car_org_mark.gif" height="200" />
+			</center>
+		</td>
+		<td>
+			<center>
+				<img src="gif/gif_mark/AR_blue_car2_mark.gif" height="200" />
+			</center>
+		</td>
+	</tr>
+	<tr>
+          <td> AR演示原视频  </td>
+          <td> AR演示添加虚拟对象(图中坦克和虚拟士兵)首先构建物体地图，在指定物体(汽车)位置进行三维注册，展示虚拟对象 </td>
+        </tr>
+	<tr>
+		<td>
+			<center>
+				<img src="gif/AR_soldier_org_mark.gif" height="200" />
+			</center>
+		</td>
+		<td>
+			<center>
+				<img src="gif/AR_soldier2_mark.gif" height="200" />
+			</center>
+		</td>
+	</tr>
+	
 </table>
 
-### 2. 基于隐式编码的物体模型优化：
+### 3. 基于隐式编码的物体模型优化：
 <table rules="none" align="center">
 	<tr>
           <td> 原始描述子 </td>
@@ -99,7 +132,7 @@
 [论文链接](https://arxiv.org/abs/2303.02000)
 **摘要：**   
 The progress of LiDAR-based 3D object detection has significantly enhanced developments in autonomous driving and robotics. However, due to the limitations of LiDAR sensors, object shapes suffer from deterioration in occluded and distant areas, which creates a fundamental challenge to 3D perception. Existing methods estimate specific 3D shapes and achieve remarkable performance. However, these methods rely on extensive computation and memory, causing imbalances between accuracy and real-time performance. To tackle this challenge, we propose a novel LiDAR-based 3D object detection model named BSH-Det3D, which applies an effective way to enhance spatial features by estimating complete shapes from a bird's eye view (BEV). Specifically, we design the Pillar-based Shape Completion (PSC) module to predict the probability of occupancy whether a pillar contains object shapes. The PSC module generates a BEV shape heatmap for each scene. After integrating with heatmaps, BSH-Det3D can provide additional information in shape deterioration areas and generate high-quality 3D proposals. We also design an attention-based densification fusion module (ADF) to adaptively associate the sparse features with heatmaps and raw points. The ADF module integrates the advantages of points and shapes knowledge with negligible overheads. Extensive experiments on the KITTI benchmark achieve state-of-the-art (SOTA) performance in terms of accuracy and speed, demonstrating the efficiency and flexibility of BSH-Det3D. The source code is available on https://github.com/mystorm16/BSH-Det3D.
-![image](https://note.youdao.com/favicon.ico)
+![image.png](https://note.youdao.com/yws/res/9/WEBRESOURCEe6f331e13abe78145d4a0a9ab7d8d309)
 
 
 
