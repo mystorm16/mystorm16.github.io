@@ -7,13 +7,13 @@
           <td> 任务1  </td>
           <td>
 			<center>
-				<img src="gif/task1.gif" height="250" />
+				<img src="gif/task1.gif" height="300" />
 			</center>
 		</td>
 		<td> 任务2  </td>
           <td>
 			<center>
-				<img src="gif/task2.gif" height="250" />
+				<img src="gif/task2.gif" height="300" />
 			</center>
 		</td>
 	</tr>
@@ -52,6 +52,8 @@
 			</center>
 		</td>
 	</tr>
+	
+	
 	<tr>
           <td> AR演示原视频  </td>
           <td> AR演示添加虚拟对象(图中蓝车)	首先构建离线点云地图，利用离线地图重定位之后进行指定位置的三维注册，添加虚拟对象 </td>
