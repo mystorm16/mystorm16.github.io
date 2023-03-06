@@ -56,7 +56,7 @@
           <td> AR演示原视频1  </td>
 	  <td>
 			<center>
-				<img src="gif/gif_mark/AR_blue_car_org_mark.gif" height="250" />
+				<img src="gif/AR_blue_car_org.gif" height="250" />
 			</center>
 	  </td>
         </tr>
@@ -64,7 +64,7 @@
 		<td> 虚实融合1(图中蓝车) </td>
 		<td>
 			<center>
-				<img src="gif/gif_mark/AR_blue_car2_mark.gif" height="250" />
+				<img src="gif/AR_blue_car2.gif" height="250" />
 			</center>
 		</td>
 	</tr>
@@ -72,7 +72,7 @@
           <td> AR演示原视频2  </td>
 		<td>
 			<center>
-				<img src="gif/gif_mark/AR_soldier_org_mark.gif" height="250" />
+				<img src="gif/AR_soldier_org.gif" height="250" />
 			</center>
 		</td>
         </tr>
@@ -80,7 +80,7 @@
 		<td> 虚实融合2(图中坦克和虚拟士兵) </td>
 		<td>
 			<center>
-				<img src="gif/gif_mark/AR_soldier2_mark.gif" height="250" />
+				<img src="gif/AR_soldier2.gif" height="250" />
 			</center>
 		</td>
 	</tr>
