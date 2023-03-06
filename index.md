@@ -127,11 +127,5 @@ The progress of LiDAR-based 3D object detection has significantly enhanced devel
 <center>
 	<img src="img/framework.png" height="600" />
 </center>
-<iframe 
-    height=450 
-    width=800 
-    src="https://www.bilibili.com/video/BV16L41117ND/?vd_source=8422e423248f61d81faa38b9b476579b" 
-    frameborder=0 
-    allowfullscreen>
-</iframe>
+<iframe src="//player.bilibili.com/player.html?aid=440561988&bvid=BV16L41117ND&cid=1042208652&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
