@@ -56,7 +56,7 @@
           <td> AR演示原视频1  </td>
 	  <td>
 			<center>
-				<img src="gif/AR_blue_car_org.gif" height="250" />
+				<img src="gif/AR_bule_car_org.gif" height="250" />
 			</center>
 	  </td>
         </tr>
@@ -64,7 +64,7 @@
 		<td> 虚实融合1(图中蓝车) </td>
 		<td>
 			<center>
-				<img src="gif/AR_blue_car2.gif" height="250" />
+				<img src="gif/AR_blue_car.gif" height="250" />
 			</center>
 		</td>
 	</tr>
