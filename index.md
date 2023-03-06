@@ -62,7 +62,6 @@
 			</center>
 		</td>
 	</tr>
-</table>
 
 
 ### 论文《Object-Plane Co-Represented and Graph Propagation-Based Semantic Descriptor for Relocalization》 
