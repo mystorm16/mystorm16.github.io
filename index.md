@@ -1,6 +1,6 @@
 # 个人主页 for 沈优
 
-## Demo展示：
+## 项目Demo：
 
 <table rules="none" align="center">
 	<tr>
@@ -31,34 +31,6 @@
           <td>
 			<center>
 				<img src="gif/task4gif.gif" height="200" />
-			</center>
-		</td>
-	</tr>
-	<tr>
-          <td> AR辅助维系虚拟动画展示，在指定位置添加虚拟动画(发动机)，利用交互信息来辅助检查和维修  </td>
-          <td> </td>
-        </tr>
-	<tr>
-		<td>
-			<center>
-				<img src="gif/gif_mark/AR_engine2_mark.gif" height="200" />
-			</center>
-		</td>
-		<td>
-		</td>
-	</tr><tr>
-          <td> kitti数据集上实例分割  </td>
-          <td> kitti数据集上进行物体建模和语义重定位，图中蓝色关键帧和黄色关键帧来自两个机器人采集的数据，利用语义和几何结合的重定位技术实现地图拼接 </td>
-        </tr>
-	<tr>
-		<td>
-			<center>
-				<img src="gif/gif_mark/AR_kitii_mark.gif" height="180" />
-			</center>
-		</td>
-		<td>
-			<center>
-				<img src="gif/gif_mark/AR_kitii_semantic_map3_mark.gif" height="200" />
 			</center>
 		</td>
 	</tr>
