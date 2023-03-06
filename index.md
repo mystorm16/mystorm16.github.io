@@ -16,6 +16,7 @@
 				<img src="gif/task2.gif" height="200" />
 			</center>
 		</td>
+	</tr>
 	<tr>
           <td> 任务3  </td>
           <td>
@@ -112,6 +113,7 @@
 				<img src="gif/task2.gif" height="200" />
 			</center>
 		</td>
+	</tr>
 	<tr>
           <td> 正态分布0.1  </td>
           <td>
