@@ -1,7 +1,6 @@
-# 邓志强个人主页
+# 沈优个人主页
 
-## 部分成果展示
-（由于所做项目不方便完全公开，所以只展示了部分demo效果）
+## Demo展示~
 
 <table rules="none" align="center">
 	<tr>
@@ -117,37 +116,7 @@ Relocalization is a critical component of robotics applications, it poses challe
 1. 作为第一作者，发表在RAL+IROS论文《Object-Plane Co-Represented and Graph Propagation-Based Semantic Descriptor for Relocalization》      
 2. 作为非第一作者，发表在3DV论文 《Object SLAM-Based Active Mapping and Robotic Grasping》            
 3. 作为非第一作者，发表在IROS论文《CFP-SLAM: A Real-time Visual SLAM Based on Coarse-to-Fine Probability in Dynamic Environments》 
-
-## 个人荣誉
-
-  <table border="0">
-      <tr>
-          <td> 全国大学生数学竞赛  		省一等奖  </td>
-          <td> 互联网+创新创业大赛			国家铜奖  </td>
-      </tr>
-        <tr>
-          <td> 美国数学建模竞赛       	H奖  </td>
-          <td> 辽宁省计算机博弈			    象棋组季军  </td>
-      </tr>
-      <tr>
-          <td> 新媒体设计竞赛			    省一等奖  </td>
-          <td> 辽宁省机器人大赛			    省三等奖  </td>
-      </tr>
-      <tr>
-          <td> 高校数学密码挑战赛		    省一等奖  </td>
-          <td> 计算机设计竞赛			        省三等奖  </td>
-      </tr>
-      <tr>
-          <td> 研究生阶段	一等奖学金、优秀研究生  </td>
-          <td> 本科生阶段	一等奖学金、励志奖学金、专业标兵  </td>
-      </tr>
-  </table>
   
-
-## 专业技能
-* 算法	语义图匹配  图优化  视觉SLAM     
-* 编程	C/C++  Python  Java  OpenCV  Eigen  PCL  g2o     
-* 技术	Android开发  Linux操作系统  ROS  Unity3D    
-* 语言	CET-4   CET-6    
+  
 
 
