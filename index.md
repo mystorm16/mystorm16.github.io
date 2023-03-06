@@ -59,7 +59,6 @@
 				<img src="gif/gif_mark/AR_blue_car_org_mark.gif" height="200" />
 			</center>
 	  </td>
-          
         </tr>
 	<tr>
 		<td> AR演示添加虚拟对象(图中蓝车)	首先构建离线点云地图，利用离线地图重定位之后进行指定位置的三维注册，添加虚拟对象 </td>
@@ -76,7 +75,6 @@
 				<img src="gif/gif_mark/AR_soldier_org_mark.gif" height="200" />
 			</center>
 		</td>
-          
         </tr>
 	<tr>
 		<td> AR演示添加虚拟对象(图中坦克和虚拟士兵)首先构建物体地图，在指定物体(汽车)位置进行三维注册，展示虚拟对象 </td>
