@@ -1,7 +1,7 @@
 # 个人主页 to 沈优 
 
 ## 项目Demo：
-### 1. 基于增强现实的船载电子装备辅助维修：
+### 项目1. 基于增强现实的船载电子装备辅助维修：
 <table rules="none" align="center">
   <tbody>
     <tr>
@@ -42,8 +42,9 @@
     <col>
   </colgroup>
 </table>
+***
 
-### 2. 基于增强现实的数字场景孪生：
+### 项目2. 基于增强现实的数字场景孪生：
 <table rules="none" align="center">
 	<tr>
           <td> 孪生场景1  </td>
@@ -96,7 +97,7 @@
 	
 </table>
 
-### 3. 基于隐式编码的物体模型优化：
+### 项目3. 基于隐式编码的物体模型优化：
 <table rules="none" align="center">
 	<tr>
           <td> 原始描述子 </td>
