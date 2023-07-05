@@ -25,8 +25,16 @@
       <td>任务4：发动机内部结构展示</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>
+	<center>
+		<img src="gif/task3.gif" height="300" />
+	</center>
+      </td>
+      <td>
+	<center>
+		<img src="gif/task4.gif" height="300" />
+	</center> 
+      </td>
     </tr>
   </tbody>
   <colgroup>
