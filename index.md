@@ -113,12 +113,12 @@
     <tr>
       <td>
 	      <center>
-		      <img src="gif/AR_soldier_org.gif" height="250" />
+		      <img src="gif/AR_soldier_org.gif" height="270" />
 	      </center>  
       </td>
       <td>
 	      <center>
-		      <img src="gif/AR_soldier2.gif" height="250" />
+		      <img src="gif/AR_soldier2.gif" height="270" />
 	      </center>  
       </td>
     </tr>
