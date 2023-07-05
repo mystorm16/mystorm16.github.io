@@ -45,38 +45,82 @@
 
 ---
 
-### 🛠️项目1. 基于增强现实的船载电子装备辅助维修：
+### 🚗项目2. 基于增强现实的数字场景孪生：
 <table rules="none" align="center">
   <tbody>
     <tr>
-      <td><center><b>任务1：工作台物体类别标注</b></center></td>
-      <td><center><b>任务2：发动机维修细节指导</b></center></td>
+      <td><center><b>原始场景：KITTI-07</b></center></td>
+      <td><center><b>数字孪生场景1</b></center></td>
     </tr>
     <tr>
       <td>
 	<center>
-		<img src="gif/task1.gif" height="300" />
+		<img src="gif/kitti07gif.gif" height="220" />
 	</center>
       </td>
       <td>
 	<center>
-		<img src="gif/task2.gif" height="300" />
+		<img src="gif/ARCAR1gif.gif" height="250" />
 	</center> 
       </td>
     </tr>
     <tr>
-      <td><center><b>任务3：分布式维修指导</b></center></td>
-      <td><center><b>任务4：发动机内部结构展示</b></center></td>
+      <td><center><b>全局语义地图</b></center></td>
+      <td><center><b>数字孪生场景2</b></center></td>
     </tr>
     <tr>
       <td>
 	<center>
-		<img src="gif/task3.gif" height="300" />
+		<img src="img/kitti07_pic.png" height="250" />
 	</center>
       </td>
       <td>
 	<center>
-		<img src="gif/task4.gif" height="300" />
+		<img src="gif/ARCAR2gif.gif" height="250" />
+	</center> 
+      </td>
+    </tr>
+  </tbody>
+  <colgroup>
+    <col>
+    <col>
+  </colgroup>
+</table>
+
+---
+
+### 🚗项目3. 基于增强现实的数字场景孪生：
+<table rules="none" align="center">
+  <tbody>
+    <tr>
+      <td><center><b>原始描述子</b></center></td>
+      <td><center><b>正态分布0.05</b></center></td>
+    </tr>
+    <tr>
+      <td>
+	<center>
+		<img src="img/sdf0.png" height="400" />
+	</center>
+      </td>
+      <td>
+	<center>
+		<img src="img/sdf1.png" height="150" />
+	</center> 
+      </td>
+    </tr>
+    <tr>
+      <td><center><b>正态分布0.1</b></center></td>
+      <td><center><b>正态分布0.2</b></center></td>
+    </tr>
+    <tr>
+      <td>
+	<center>
+		<img src="img/sdf2.png" height="150" />
+	</center>
+      </td>
+      <td>
+	<center>
+		<img src="img/sdf3.png" height="150" />
 	</center> 
       </td>
     </tr>
