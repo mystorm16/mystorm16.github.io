@@ -91,8 +91,8 @@
 <table>
   <tbody>
     <tr>
-      <td>增强现实 实际场景1</td>
-      <td><br>虚实融合场景1<br>(图中蓝车)</td>
+      <td><center><b>增强现实 实际场景1</b></center></td>
+      <td><center><b>虚实融合场景1(图中蓝车)</b></center></td>
     </tr>
     <tr>
       <td>
@@ -107,8 +107,8 @@
       </td>
     </tr>
     <tr>
-      <td>增强现实 实际场景2</td>
-      <td><br>虚实融合场景2<br>(图中坦克和虚拟士兵)</td>
+      <td><center><b>增强现实 实际场景2</b></center></td>
+      <td><center><b>虚实融合场景2(图中坦克和虚拟士兵)</b></center></td>
     </tr>
     <tr>
       <td>
@@ -135,8 +135,8 @@
 <table>
   <tbody>
     <tr>
-      <td>原始描述子</td>
-      <td><br>正态分布0.05<br></td>
+      <td><center><b>原始描述子</b></center></td>
+      <td><center><b>正态分布0.05</b></center></td>
     </tr>
     <tr>
       <td>
@@ -151,8 +151,8 @@
       </td>
     </tr>
     <tr>
-      <td><br>正态分布0.1</td>
-      <td><br>正态分布0.2<br></td>
+      <td><center><b>正态分布0.1</b></center></td>
+      <td><center><b>正态分布0.2</b></center></td>
     </tr>
     <tr>
       <td>
@@ -172,6 +172,7 @@
     <col>
   </colgroup>
 </table>
+
 ---
 
 ## 论文[IROS-2023]《BSH-Det3D: Improving 3D Object Detection with BEV Shape Heatmap》 
