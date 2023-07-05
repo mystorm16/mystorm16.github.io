@@ -43,7 +43,53 @@
   </colgroup>
 </table>
 
-## 论文 <br />《BSH-Det3D: Improving 3D Object Detection with BEV Shape Heatmap》 [IROS-2023🤖]
+---
+
+### 🛠️项目1. 基于增强现实的船载电子装备辅助维修：
+<table rules="none" align="center">
+  <tbody>
+    <tr>
+      <td><center><b>任务1：工作台物体类别标注</b></center></td>
+      <td><center><b>任务2：发动机维修细节指导</b></center></td>
+    </tr>
+    <tr>
+      <td>
+	<center>
+		<img src="gif/task1.gif" height="300" />
+	</center>
+      </td>
+      <td>
+	<center>
+		<img src="gif/task2.gif" height="300" />
+	</center> 
+      </td>
+    </tr>
+    <tr>
+      <td><center><b>任务3：分布式维修指导</b></center></td>
+      <td><center><b>任务4：发动机内部结构展示</b></center></td>
+    </tr>
+    <tr>
+      <td>
+	<center>
+		<img src="gif/task3.gif" height="300" />
+	</center>
+      </td>
+      <td>
+	<center>
+		<img src="gif/task4.gif" height="300" />
+	</center> 
+      </td>
+    </tr>
+  </tbody>
+  <colgroup>
+    <col>
+    <col>
+  </colgroup>
+</table>
+
+---
+
+##  论文 [IROS-2023🤖] <br />《BSH-Det3D: Improving 3D Object Detection with BEV Shape Heatmap》
 
 📖[Arxiv](https://arxiv.org/abs/2303.02000) | 💻[Code](https://github.com/mystorm16/BSH-Det3D) | 📺[Video](https://www.bilibili.com/video/BV16L41117ND/?spm_id_from=888.80997.embed_other.whitelist&vd_source=8422e423248f61d81faa38b9b476579b)
 
