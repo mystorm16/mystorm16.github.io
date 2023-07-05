@@ -49,8 +49,8 @@
 <table>
   <tbody>
     <tr>
-      <td>原始场景：KITTI-07</td>
-      <td>数字孪生场景1</td>
+      <td><center><b>原始场景：KITTI-07</b></center></td>
+      <td><center><b>数字孪生场景1</b></center></td>
     </tr>
     <tr>
       <td>
@@ -64,8 +64,8 @@
       </td>
     </tr>
     <tr>
-      <td>全局语义地图</td>
-      <td>数字孪生场景2</td>
+      <td><center><b>全局语义地图</b></center></td>
+      <td><center><b>数字孪生场景2</b></center></td>
     </tr>
     <tr>
       <td>
@@ -89,22 +89,6 @@
 ---
 
 <table rules="none" align="center">
-	<tr>
-          <td> 孪生场景1  </td>
-          <td>
-			<center>
-				<img src="gif/ARCAR1gif.gif" height="250" />
-			</center>
-		</td>
-	</tr>
-	<tr>
-		<td> 孪生场景2  </td>
-          <td>
-			<center>
-				<img src="gif/ARCAR2gif.gif" height="250" />
-			</center>
-		</td>
-	</tr>
 	<tr>
           <td> AR演示原视频1  </td>
 	  <td>
