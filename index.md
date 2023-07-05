@@ -42,7 +42,8 @@
     <col>
   </colgroup>
 </table>
-***
+
+---
 
 ### 项目2. 基于增强现实的数字场景孪生：
 <table rules="none" align="center">
