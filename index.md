@@ -71,12 +71,12 @@
     <tr>
       <td>
 	<center>
-		<img src="img/kitti07_pic.png" height="250" />
+		<img src="img/kitti07_pic.png" height="220" />
 	</center>
       </td>
       <td>
 	<center>
-		<img src="gif/ARCAR2gif.gif" height="250" />
+		<img src="gif/ARCAR2gif.gif" height="220" />
 	</center> 
       </td>
     </tr>
