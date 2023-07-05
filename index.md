@@ -60,7 +60,7 @@
       </td>
       <td>
 	<center>
-		<img src="gif/ARCAR1gif.gif" height="250" width="400" />
+		<img src="gif/ARCAR1gif.gif" height="250" />
 	</center> 
       </td>
     </tr>
@@ -88,8 +88,49 @@
 </table>
 
 ---
+<table rules="none" align="center">
+  <tbody>
+    <tr>
+      <td><center><b>原始场景：KITTI-07</b></center></td>
+      <td><center><b>数字孪生场景1</b></center></td>
+    </tr>
+    <tr>
+      <td>
+	<center>
+		<img src="gif/kitti07gif.gif" height="220" />
+	</center>
+      </td>
+      <td>
+	<center>
+		<img src="gif/ARCAR1gif.gif" height="250" />
+	</center> 
+      </td>
+    </tr>
+    <tr>
+      <td><center><b>全局语义地图</b></center></td>
+      <td><center><b>数字孪生场景2</b></center></td>
+    </tr>
+    <tr>
+      <td>
+	<center>
+		<img src="img/kitti07_pic.png" height="220" />
+	</center>
+      </td>
+      <td>
+	<center>
+		<img src="gif/ARCAR2gif.gif" height="220" />
+	</center> 
+      </td>
+    </tr>
+  </tbody>
+  <colgroup>
+    <col>
+    <col>
+  </colgroup>
+</table>
+---
 
-### 🚜项目3. 基于增强现实的数字场景孪生：
+### 🚜项目3. 基于隐式编码的物体模型优化：
 <table rules="none" align="center">
   <tbody>
     <tr>
