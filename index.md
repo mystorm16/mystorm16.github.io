@@ -1,7 +1,7 @@
 # 个人主页 to 沈优 
 
 ## 项目Demo：
-### 项目1. 基于增强现实的船载电子装备辅助维修：
+### :wrench:项目1. 基于增强现实的船载电子装备辅助维修：
 <table rules="none" align="center">
   <tbody>
     <tr>
