@@ -175,7 +175,8 @@
 
 ---
 
-## 🤖论文[IROS-2023]《BSH-Det3D: Improving 3D Object Detection with BEV Shape Heatmap》 
+## 论文
+🤖[IROS-2023] 《BSH-Det3D: Improving 3D Object Detection with BEV Shape Heatmap》 
 
 :palm_tree:[论文链接](https://arxiv.org/abs/2303.02000)
 
