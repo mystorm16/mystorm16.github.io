@@ -53,16 +53,31 @@
       <td>数字孪生场景1</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>
+	      <center>
+		      <img src="gif/kitti07gif.gif" height="250" />
+	      </center>
+      <td>
+	      <center>
+		      <img src="gif/ARCAR1gif.gif" height="250" />
+	      </center>
+      </td>
     </tr>
     <tr>
       <td>全局语义地图</td>
       <td>数字孪生场景2</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>
+	      <center>
+		      <img src="img/kitti07_pic.png" height="250" />
+	      </center>
+      </td>
+      <td>
+	      <center>
+		      <img src="gif/ARCAR2gif.gif" height="250" />
+	      </center>
+      </td>
     </tr>
   </tbody>
   <colgroup>
@@ -70,6 +85,8 @@
     <col>
   </colgroup>
 </table>
+
+---
 
 <table rules="none" align="center">
 	<tr>
