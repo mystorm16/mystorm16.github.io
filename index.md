@@ -88,37 +88,38 @@
 </table>
 
 ---
+
 <table rules="none" align="center">
   <tbody>
     <tr>
-      <td><center><b>原始场景：KITTI-07</b></center></td>
-      <td><center><b>数字孪生场景1</b></center></td>
+      <td><center><b>增强现实 实际场景1</b></center></td>
+      <td><center><b>虚实融合场景1(图中蓝车)</b></center></td>
     </tr>
     <tr>
       <td>
 	<center>
-		<img src="gif/kitti07gif.gif" height="220" />
+		<img src="gif/AR_bule_car_org.gif" height="250" />
 	</center>
       </td>
       <td>
 	<center>
-		<img src="gif/ARCAR1gif.gif" height="250" />
+		<img src="gif/AR_blue_car.gif" height="250" />
 	</center> 
       </td>
     </tr>
     <tr>
-      <td><center><b>全局语义地图</b></center></td>
-      <td><center><b>数字孪生场景2</b></center></td>
+      <td><center><b>增强现实 实际场景2</b></center></td>
+      <td><center><b>虚实融合场景2(图中坦克和虚拟士兵)</b></center></td>
     </tr>
     <tr>
       <td>
 	<center>
-		<img src="img/kitti07_pic.png" height="220" />
+		<img src="gif/AR_soldier_org.gif" height="270" />
 	</center>
       </td>
       <td>
 	<center>
-		<img src="gif/ARCAR2gif.gif" height="220" />
+		<img src="gif/AR_soldier2.gif" height="270" />
 	</center> 
       </td>
     </tr>
@@ -128,6 +129,7 @@
     <col>
   </colgroup>
 </table>
+
 ---
 
 ### 🚜项目3. 基于隐式编码的物体模型优化：
