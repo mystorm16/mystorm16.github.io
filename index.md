@@ -132,36 +132,47 @@
 ---
 
 ### 项目3. 基于隐式编码的物体模型优化：
-<table rules="none" align="center">
-	<tr>
-          <td> 原始描述子 </td>
-          <td>
-			<center>
+<table>
+  <tbody>
+    <tr>
+      <td>原始描述子</td>
+      <td><br>正态分布0.05<br></td>
+    </tr>
+    <tr>
+      <td>
+	      		<center>
 				<img src="img/sdf0.png" width="400"/>
 			</center>
-		</td>
-		<td> 正态分布0.05  </td>
-          <td>
-			<center>
+      </td>
+      <td>
+	      <center>
 				<img src="img/sdf1.png" height="150" />
-			</center>
-		</td>
-	</tr>
-	<tr>
-          <td> 正态分布0.1  </td>
-          <td>
-			<center>
+	      </center>
+      </td>
+    </tr>
+    <tr>
+      <td><br>正态分布0.1</td>
+      <td><br>正态分布0.2<br></td>
+    </tr>
+    <tr>
+      <td>
+	      <center>
 				<img src="img/sdf2.png" height="150" />
-			</center>
-		</td>
-		<td> 正态分布0.2  </td>
-          <td>
-			<center>
+		</center>
+      </td>
+      <td>
+      		<center>
 				<img src="img/sdf3.png" height="150" />
-			</center>
-		</td>
-	</tr>
+		</center>
+      </td>
+    </tr>
+  </tbody>
+  <colgroup>
+    <col>
+    <col>
+  </colgroup>
 </table>
+---
 
 ## 论文[IROS-2023]《BSH-Det3D: Improving 3D Object Detection with BEV Shape Heatmap》 
 
