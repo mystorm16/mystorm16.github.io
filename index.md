@@ -1,11 +1,11 @@
 # 个人主页 to 沈优 
 
 ## 项目Demo：
-### :wrench:项目1. 基于增强现实的船载电子装备辅助维修：
+### 项目1. 基于增强现实的船载电子装备辅助维修：
 <table rules="none" align="center">
   <tbody>
     <tr>
-      <td><center><b>:wrench:任务1：工作台物体类别标注</b></center></td>
+      <td><center><b>任务1：工作台物体类别标注</b></center></td>
       <td><center><b>任务2：发动机维修细节指导</b></center></td>
     </tr>
     <tr>
@@ -45,7 +45,7 @@
 
 ---
 
-### :car:项目2. 基于增强现实的数字场景孪生：
+### :car: 项目2. 基于增强现实的数字场景孪生：
 <table>
   <tbody>
     <tr>
