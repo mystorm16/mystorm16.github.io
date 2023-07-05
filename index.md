@@ -2,7 +2,7 @@
 
 ## 项目Demo：
 ### 1. 基于增强现实的船载电子装备辅助维修：
-<table>
+<table rules="none" align="center">
   <tbody>
     <tr>
       <td>任务1：工作台物体类别标注</td>
