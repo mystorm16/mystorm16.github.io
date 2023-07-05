@@ -60,7 +60,7 @@
       </td>
       <td>
 	<center>
-		<img src="gif/ARCAR1gif.gif" height="250" width="400 />
+		<img src="gif/ARCAR1gif.gif" height="250" width="400" />
 	</center> 
       </td>
     </tr>
