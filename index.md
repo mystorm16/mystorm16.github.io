@@ -88,41 +88,48 @@
 
 ---
 
-<table rules="none" align="center">
-	<tr>
-          <td> AR演示原视频1  </td>
-	  <td>
-			<center>
-				<img src="gif/AR_bule_car_org.gif" height="250" />
-			</center>
-	  </td>
-        </tr>
-	<tr>
-		<td> 虚实融合1(图中蓝车) </td>
-		<td>
-			<center>
-				<img src="gif/AR_blue_car.gif" height="250" />
-			</center>
-		</td>
-	</tr>
-	<tr>
-          <td> AR演示原视频2  </td>
-		<td>
-			<center>
-				<img src="gif/AR_soldier_org.gif" height="250" />
-			</center>
-		</td>
-        </tr>
-	<tr>
-		<td> 虚实融合2(图中坦克和虚拟士兵) </td>
-		<td>
-			<center>
-				<img src="gif/AR_soldier2.gif" height="250" />
-			</center>
-		</td>
-	</tr>
-	
+<table>
+  <tbody>
+    <tr>
+      <td>增强现实 实际场景1</td>
+      <td><br>虚实融合场景1<br>(图中蓝车)</td>
+    </tr>
+    <tr>
+      <td>
+	      <center>
+		      <img src="gif/AR_bule_car_org.gif" height="250" />
+	      </center>
+      </td>
+      <td>
+	      <center>
+		      <img src="gif/AR_blue_car.gif" height="250" />
+	      </center>  
+      </td>
+    </tr>
+    <tr>
+      <td>增强现实 实际场景2</td>
+      <td><br>虚实融合场景2<br>(图中坦克和虚拟士兵)</td>
+    </tr>
+    <tr>
+      <td>
+	      <center>
+		      <img src="gif/AR_soldier_org.gif" height="250" />
+	      </center>  
+      </td>
+      <td>
+	      <center>
+		      <img src="gif/AR_soldier2.gif" height="250" />
+	      </center>  
+      </td>
+    </tr>
+  </tbody>
+  <colgroup>
+    <col>
+    <col>
+  </colgroup>
 </table>
+
+---
 
 ### 项目3. 基于隐式编码的物体模型优化：
 <table rules="none" align="center">
