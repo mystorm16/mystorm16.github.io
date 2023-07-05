@@ -9,8 +9,16 @@
       <td>任务2：发动机维修细节指导</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>
+	<center>
+		<img src="gif/task1.gif" height="300" />
+	</center>
+      </td>
+      <td>
+	<center>
+		<img src="gif/task2.gif" height="300" />
+	</center> 
+      </td>
     </tr>
     <tr>
       <td>任务3：分布式维修指导</td>
