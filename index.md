@@ -99,7 +99,7 @@
     <tr>
       <td>
 	<center>
-		<img src="img/sdf0.png" height="400" />
+		<img src="img/sdf0.png" width="400" />
 	</center>
       </td>
       <td>
