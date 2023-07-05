@@ -55,7 +55,7 @@
     <tr>
       <td>
 	      <center>
-		      <img src="gif/kitti07gif.gif" height="250" />
+		      <img src="gif/kitti07gif.gif" height="220" />
 	      </center>
       <td>
 	      <center>
