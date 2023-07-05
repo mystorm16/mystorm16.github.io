@@ -45,7 +45,7 @@
 
 
 ### 🚗项目2. 基于增强现实的数字场景孪生：
-<table>
+<table rules="none" align="center">
   <tbody>
     <tr>
       <td><center><b>原始场景：KITTI-07</b></center></td>
@@ -86,7 +86,7 @@
 </table>
 
 ### 🚜项目3. 基于隐式编码的物体模型优化：
-<table>
+<table rules="none" align="center">
   <tbody>
     <tr>
       <td><center><b>原始描述子</b></center></td>
