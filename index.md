@@ -5,7 +5,7 @@
 <table rules="none" align="center">
   <tbody>
     <tr>
-      <td><center><b>任务1：工作台物体类别标注</b></center></td>
+      <td><center><b>:wrench:任务1：工作台物体类别标注</b></center></td>
       <td><center><b>任务2：发动机维修细节指导</b></center></td>
     </tr>
     <tr>
