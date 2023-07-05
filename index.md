@@ -46,6 +46,31 @@
 ---
 
 ### 项目2. 基于增强现实的数字场景孪生：
+<table>
+  <tbody>
+    <tr>
+      <td>原始场景：KITTI-07</td>
+      <td>数字孪生场景1</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>全局语义地图</td>
+      <td>数字孪生场景2</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+  <colgroup>
+    <col>
+    <col>
+  </colgroup>
+</table>
+
 <table rules="none" align="center">
 	<tr>
           <td> 孪生场景1  </td>
