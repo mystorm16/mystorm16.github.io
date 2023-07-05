@@ -2,6 +2,31 @@
 
 ## 项目Demo：
 ### 1. 基于增强现实的船载电子装备辅助维修：
+<table>
+  <tbody>
+    <tr>
+      <td>任务1：工作台物体类别标注</td>
+      <td>任务2：发动机维修细节指导</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>任务3：分布式维修指导</td>
+      <td>任务4：发动机内部结构展示</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+  <colgroup>
+    <col>
+    <col>
+  </colgroup>
+</table>
+
 <table rules="none" align="center">
 	<tr>
           <td> 任务1  </td>
