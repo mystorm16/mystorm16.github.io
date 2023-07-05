@@ -70,7 +70,7 @@
     <tr>
       <td>
 	      <center>
-		      <img src="img/kitti07_pic.png" height="250" />
+		      <img src="img/kitti007_pic.png" height="250" />
 	      </center>
       </td>
       <td>
