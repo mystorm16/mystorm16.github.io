@@ -6,7 +6,7 @@
   <tbody>
     <tr>
       <td><center><b>任务1：工作台物体类别标注</b></center></td>
-      <td><center>任务2：发动机维修细节指导</center></td>
+      <td><center><b>任务2：发动机维修细节指导</b></center></td>
     </tr>
     <tr>
       <td>
@@ -21,8 +21,8 @@
       </td>
     </tr>
     <tr>
-      <td>**任务3：分布式维修指导**</td>
-      <td>**任务4：发动机内部结构展示**</td>
+      <td><center><b>任务3：分布式维修指导</b></center></td>
+      <td><center><b>任务4：发动机内部结构展示</b></center></td>
     </tr>
     <tr>
       <td>
@@ -42,38 +42,6 @@
     <col>
   </colgroup>
 </table>
-
-<table rules="none" align="center">
-	<tr>
-          <td> 任务1  </td>
-          <td>
-			<center>
-				<img src="gif/task1.gif" height="300" />
-			</center>
-		</td>
-		<td> 任务2  </td>
-          <td>
-			<center>
-				<img src="gif/task2.gif" height="300" />
-			</center>
-		</td>
-	</tr>
-	<tr>
-          <td> 任务3  </td>
-          <td>
-			<center>
-				<img src="gif/task3.gif" height="300" />
-			</center>
-		</td>
-		<td> 任务4  </td>
-          <td>
-			<center>
-				<img src="gif/task4.gif" height="300" />
-			</center>
-		</td>
-	</tr>
-</table>
-
 
 ### 2. 基于增强现实的数字场景孪生：
 <table rules="none" align="center">
