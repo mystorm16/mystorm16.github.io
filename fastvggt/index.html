@@ -851,52 +851,40 @@
             <div class="model-container" id="model-compare-wrapper">
               <!-- Model 1 Viewer with Label (VGGT raw) -->
               <div class="model-wrapper-comparison">
-                <div class="model-label">VGGT</div>
-                <model-viewer
-                  id="modelViewerComparison1"
-                  loading="eager"
-                  touch-action="pan-y"
-                  environment-image="legacy"
-                  src="resources/comparison/ours/raw.glb"
-                  zoom-sensitivity="0.2"
-                  camera-controls
-                  disable-tap
-                  min-camera-orbit="auto auto 1m"
-                  max-camera-orbit="auto auto 10m"
-                  interaction-prompt="none"
-                  shadow-intensity="0"
-                  ar
-                  style="width: 100%; height: 100%; background: #ffffff"
-                >
-                </model-viewer>
-              </div>
-              <!-- Model 2 Viewer with Label (FastVGGT pred) -->
-              <div class="model-wrapper-comparison">
                 <div class="model-label">FastVGGT</div>
-                <model-viewer
-                  id="modelViewerComparison2"
-                  loading="eager"
-                  touch-action="pan-y"
-                  environment-image="legacy"
-                  src="resources/comparison/ours/pred.glb"
-                  zoom-sensitivity="0.2"
-                  camera-controls
-                  disable-tap
-                  min-camera-orbit="auto auto 1m"
-                  max-camera-orbit="auto auto 10m"
-                  interaction-prompt="none"
-                  shadow-intensity="0"
-                  ar
-                  style="width: 100%; height: 100%; background: #ffffff"
-                >
+                <model-viewer id="modelViewerComparison1" loading="eager"
+                  touch-action="pan-y" environment-image="legacy"
+                  src="resources/assets/pred.glb"
+                  zoom-sensitivity="0.2" camera-controls disable-tap min-camera-orbit="auto auto 20m"
+                  max-camera-orbit="auto auto 30m" interaction-prompt="none" shadow-intensity="0" ar
+                  orientation="0deg 180deg 0deg"
+                  style="width: 100%; height: 100%;  background: #ffffff;">
                 </model-viewer>
               </div>
+
+              <div class="model-wrapper-comparison">
+                <div class="model-label">VGGT</div>
+                <model-viewer id="modelViewerComparison2" loading="eager"
+                  touch-action="pan-y" environment-image="legacy"
+                  src="resources/assets/raw.glb"
+                  zoom-sensitivity="0.2" camera-controls disable-tap min-camera-orbit="auto auto 20m"
+                  max-camera-orbit="auto auto 30m" interaction-prompt="none" shadow-intensity="0" ar
+                  orientation="0deg 180deg 0deg"
+                  style="width: 100%; height: 100%;  background: #ffffff;">
+                </model-viewer>
+              </div>
+              
             </div>
           </div>
+          <div class="model-container" id="model-compare-wrapper">
+            <!-- Model 1 Viewer with Label -->
+
+
         </div>
       </div>
     </section>
 
+    
     <!-- P4 figure after GLB visualization -->
     <section class="section" style="padding-top: 0.5rem; padding-bottom: 1rem">
       <div class="container is-max-desktop">
@@ -1012,7 +1000,7 @@
         initialModelViewers.forEach((viewer) => {
           if (viewer) {
             viewer.addEventListener("load", () => {
-              viewer.cameraOrbit = "180deg 70deg auto";
+              viewer.cameraOrbit = "180deg 70deg 4m";
               if (viewer.resetTurntableRotation) {
                 viewer.resetTurntableRotation(0);
               }
@@ -1060,7 +1048,7 @@
 
               // Reset camera positions
               [modelViewer1, modelViewer2].forEach((viewer) => {
-                viewer.cameraOrbit = "180deg 70deg auto";
+                viewer.cameraOrbit = "180deg 70deg 4m";
                 if (viewer.resetTurntableRotation) {
                   viewer.resetTurntableRotation(0);
                 }
@@ -1101,3 +1089,4 @@
     </script>
   </body>
 </html>
+
